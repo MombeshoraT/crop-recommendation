@@ -1,4 +1,4 @@
-\# 🌱 CropRecommend AI - Smart Crop Recommendation System
+\# CropRecommend AI - Smart Crop Recommendation System
 
 
 
@@ -16,7 +16,7 @@ An intelligent crop recommendation system that uses machine learning to suggest 
 
 
 
-\## 🚀 Live Demo
+\##  Live Demo
 
 
 
@@ -24,7 +24,7 @@ An intelligent crop recommendation system that uses machine learning to suggest 
 
 
 
-\## 📋 Features
+\##  Features
 
 
 
@@ -40,7 +40,7 @@ An intelligent crop recommendation system that uses machine learning to suggest 
 
 
 
-\## 🛠️ Technologies Used
+\##  Technologies Used
 
 
 
@@ -78,7 +78,7 @@ An intelligent crop recommendation system that uses machine learning to suggest 
 
 
 
-\## 📦 Installation
+\##  Installation
 
 
 
