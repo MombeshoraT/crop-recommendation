@@ -113,8 +113,13 @@
 
                 <div class="form-actions">
                     <button type="submit" name="predict" class="predict-btn">
+<<<<<<< HEAD
     <i class="fas fa-magic"></i> Get Recommendation
 </button>
+=======
+                        <i class="fas fa-magic"></i> Get Recommendation
+                    </button>
+>>>>>>> ef84342e94568a03f4c76170f7b0a9f7a3a68630
                     <button type="reset" class="reset-btn">
                         <i class="fas fa-undo"></i> Reset
                     </button>

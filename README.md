@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 \# 🌱 CropRecommend AI - Smart Crop Recommendation System
+=======
+\# CropRecommend AI - Smart Crop Recommendation System
+>>>>>>> ef84342e94568a03f4c76170f7b0a9f7a3a68630
 
 
 
@@ -16,7 +20,11 @@ An intelligent crop recommendation system that uses machine learning to suggest 
 
 
 
+<<<<<<< HEAD
 \## 🚀 Live Demo
+=======
+\##  Live Demo
+>>>>>>> ef84342e94568a03f4c76170f7b0a9f7a3a68630
 
 
 
@@ -24,7 +32,11 @@ An intelligent crop recommendation system that uses machine learning to suggest 
 
 
 
+<<<<<<< HEAD
 \## 📋 Features
+=======
+\##  Features
+>>>>>>> ef84342e94568a03f4c76170f7b0a9f7a3a68630
 
 
 
@@ -40,7 +52,11 @@ An intelligent crop recommendation system that uses machine learning to suggest 
 
 
 
+<<<<<<< HEAD
 \## 🛠️ Technologies Used
+=======
+\##  Technologies Used
+>>>>>>> ef84342e94568a03f4c76170f7b0a9f7a3a68630
 
 
 
@@ -78,7 +94,11 @@ An intelligent crop recommendation system that uses machine learning to suggest 
 
 
 
+<<<<<<< HEAD
 \## 📦 Installation
+=======
+\##  Installation
+>>>>>>> ef84342e94568a03f4c76170f7b0a9f7a3a68630
 
 
 
